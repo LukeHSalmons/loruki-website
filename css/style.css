@@ -365,4 +365,8 @@ justify-self: flex-end;
     .navbar ul {
         padding: 10px;
     }
+
+    .showcase-form {
+        width: 300px;
+    }    
 }
